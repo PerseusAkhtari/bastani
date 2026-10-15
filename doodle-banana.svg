@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 110" fill="none" stroke="#6b183a" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+<!-- Curved yellow lower skin and small stem. -->
+<path d="M30 46C25 63 32 84 49 95C62 104 77 103 90 97L94 98L96 92L90 90C68 91 47 72 45 48Z" fill="#f1dba1"/>
+<path d="M39 68C46 86 64 97 82 96" stroke-width="1.6"/>
+<path d="M90 90L96 91L97 98L92 99Z" fill="#c4d3a6"/>
+<!-- Exposed cream banana rises above the opened peel. -->
+<path d="M25 48C27 31 36 12 52 5C58 2 61 5 60 12C59 26 49 39 47 55Z" fill="#fff1c9"/>
+<path d="M35 45C38 29 47 16 53 11" stroke-width="1.5"/>
+<!-- Three soft peel flaps fold down around the fruit. -->
+<path d="M29 45C21 39 13 47 10 62C7 76 10 90 8 99C18 92 21 75 22 63C23 55 26 53 31 53" fill="#f1dba1"/>
+<path d="M28 45C19 43 16 53 17 68C18 79 23 88 29 92L34 89C28 74 29 61 36 53C35 49 32 46 28 45Z" fill="#fff1c9"/>
+<path d="M24 54C21 66 24 80 29 87" stroke-width="1.5"/>
+<path d="M36 53C42 42 51 43 60 53C68 63 73 76 71 84L66 85C61 71 53 57 43 56Z" fill="#fff1c9"/>
+<path d="M44 50C55 51 65 68 68 79" stroke-width="1.5"/>
+</svg>
